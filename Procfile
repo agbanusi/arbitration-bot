@@ -1,1 +1,1 @@
-worker: go run index.go
+worker: bin/test1
