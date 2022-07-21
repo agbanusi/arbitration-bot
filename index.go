@@ -116,7 +116,7 @@ func main() {
 			//println(filePairs[i].Symbols)
 			go arbitrageFunc(flashBot, baseTokens, filePairs[i], auth, client)
 		}
-		time.Sleep(5 * time.Second)
+		time.Sleep(3 * time.Second)
 	}
 
 }
@@ -150,7 +150,7 @@ func arbitrageFunc(flashBot *store.Store, baseTokens Tokens, pair TokenPair, aut
 
 	res, err, pair0, pair1 := getProfitRetry(flashBot, pair00, pair10)
 	if err != nil {
-		//println("lp error", err.Error())
+		println("lp error", err.Error())
 		return
 	}
 
