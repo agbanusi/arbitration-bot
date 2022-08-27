@@ -10,18 +10,18 @@ interface Config {
   concurrency: number;
 }
 
-const contractAddr = '0xXXXXXXXXXXXXXXXXXXXXXX'; // flash bot contract address
-const gasPrice = utils.parseUnits('10', 'gwei');
-const gasLimit = 300000;
+const contractAddr = '0xcDba6c96d4F4c67F417Aa7e7BCb65e0EC3DbbbA4'//'0x0fcBFb91FBE9DD8F93Ff03DadB934b3daFa1885E'; // flash bot contract address
+const gasPrice = utils.parseUnits('60', 'gwei');
+const gasLimit = 500000;
 
-const bscScanApiKey = 'XXXXXXXXXXXXXXXX'; // bscscan API key
+const bscScanApiKey = 'S6VWP4GTW6AIR2W33PEPAJK3Y8TBFMUJ1D'; // bscscan API key
 const bscScanUrl = `https://api.bscscan.com/api?module=stats&action=bnbprice&apikey=${bscScanApiKey}`;
 
 const config: Config = {
   contractAddr: contractAddr,
   logLevel: 'info',
-  concurrency: 50,
-  minimumProfit: 50, // in USD
+  concurrency: 25000,
+  minimumProfit: 5, // in USD
   gasPrice: gasPrice,
   gasLimit: gasLimit,
   bscScanUrl: bscScanUrl,

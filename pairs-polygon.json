@@ -1,0 +1,303 @@
+[
+  {
+    "symbols": "BUSD-WMATIC",
+    "pairs": [
+      "0x1680b6fbeCeAE147FA927EF4191CAa7fF1D5196C",
+      "0xE8fA74E5192c4071a7A34d31Ed34527AaF6C01d4"
+    ]
+  },
+  {
+    "symbols": "BUSD-WMATIC",
+    "pairs": [
+      "0x1680b6fbeCeAE147FA927EF4191CAa7fF1D5196C",
+      "0x30151b8aAeCFD305980411B4efd4167c53A2F773"
+    ]
+  },
+  {
+    "symbols": "BUSD-WMATIC",
+    "pairs": [
+      "0xE8fA74E5192c4071a7A34d31Ed34527AaF6C01d4",
+      "0x30151b8aAeCFD305980411B4efd4167c53A2F773"
+    ]
+  },
+  {
+    "symbols": "USDT-WMATIC",
+    "pairs": [
+      "0x604229c960e5CACF2aaEAc8Be68Ac07BA9dF81c3",
+      "0x55FF76BFFC3Cdd9D5FdbBC2ece4528ECcE45047e"
+    ]
+  },
+  {
+    "symbols": "USDT-WMATIC",
+    "pairs": [
+      "0x604229c960e5CACF2aaEAc8Be68Ac07BA9dF81c3",
+      "0x65D43B64E3B31965Cd5EA367D4c2b94c03084797"
+    ]
+  },
+  {
+    "symbols": "USDT-WMATIC",
+    "pairs": [
+      "0x55FF76BFFC3Cdd9D5FdbBC2ece4528ECcE45047e",
+      "0x65D43B64E3B31965Cd5EA367D4c2b94c03084797"
+    ]
+  },
+  {
+    "symbols": "BAKE-WMATIC",
+    "pairs": [
+      "0x233434576870f48D393cB7fe553960DeC0c03Ca1",
+      "0x54C7d0fE6282848D8451c17fe88b59DC1CC59A29"
+    ]
+  },
+  {
+    "symbols": "SAND-WMATIC",
+    "pairs": [
+      "0x369582d2010B6eD950B571F4101e3bB9b554876F",
+      "0x1fC05157e66300377b637E93262B355d405F71c6"
+    ]
+  },
+  {
+    "symbols": "BEFI-WMATIC",
+    "pairs": [
+      "0x4Ca7Bc1641e1C998c3e52A3d1B1ac73062f4fd0F",
+      "0x0D11818AAE3D3dE25D6e48EF6bB74e04c186Aa62"
+    ]
+  },
+  {
+    "symbols": "BUNNY-WMATIC",
+    "pairs": [
+      "0xE38D4aB32315115109286c1b20F762763E43dC12",
+      "0x433102f6901A1d6d8781daC08578bF9A2eE5b4c5"
+    ]
+  },
+  {
+    "symbols": "IRON-WMATIC",
+    "pairs": [
+      "0x0Da8CdF9117F731E7E1B9C40F14130E7363ce443",
+      "0xe600C9C1A0fAA03B055924Eead9498AdB3e63fEf"
+    ]
+  },
+  {
+    "symbols": "ALPHA-WMATIC",
+    "pairs": [
+      "0x79b368B3Aa34fF2044F7869024b5367A284D3b0E",
+      "0x08eA6B8Ae8427A996e156bcAe2f542AAd0593C71"
+    ]
+  },
+  {
+    "symbols": "ALPHA-WMATIC",
+    "pairs": [
+      "0x79b368B3Aa34fF2044F7869024b5367A284D3b0E",
+      "0xD4A0B681Ef46902e78CC3f41Be7118Bbe775d6d7"
+    ]
+  },
+  {
+    "symbols": "ALPHA-WMATIC",
+    "pairs": [
+      "0x08eA6B8Ae8427A996e156bcAe2f542AAd0593C71",
+      "0xD4A0B681Ef46902e78CC3f41Be7118Bbe775d6d7"
+    ]
+  },
+  {
+    "symbols": "LINK-WMATIC",
+    "pairs": [
+      "0x3c986748414A812e455DCd5418246B8fdEd5C369",
+      "0x68ccE7049013ca8df91CD512ceFEe8FC0bb8d926"
+    ]
+  },
+  {
+    "symbols": "LINK-WMATIC",
+    "pairs": [
+      "0x3c986748414A812e455DCd5418246B8fdEd5C369",
+      "0xa8EcA6Cc6Fb9F8Cfa9D3B17D4997ccE79E5110cf"
+    ]
+  },
+  {
+    "symbols": "LINK-WMATIC",
+    "pairs": [
+      "0x68ccE7049013ca8df91CD512ceFEe8FC0bb8d926",
+      "0xa8EcA6Cc6Fb9F8Cfa9D3B17D4997ccE79E5110cf"
+    ]
+  },
+  {
+    "symbols": "BTCST-WMATIC",
+    "pairs": [
+      "0xf6B87181BF250af082272E3f448eC3238746Ce3D",
+      "0x8531c4e29491fE6e5e87AF6054FC20FcCf0b4290"
+    ]
+  },
+  {
+    "symbols": "BTCST-WMATIC",
+    "pairs": [
+      "0xf6B87181BF250af082272E3f448eC3238746Ce3D",
+      "0xe82635a105c520fd58e597181cBf754961d51E3e"
+    ]
+  },
+  {
+    "symbols": "BTCST-WMATIC",
+    "pairs": [
+      "0x8531c4e29491fE6e5e87AF6054FC20FcCf0b4290",
+      "0xe82635a105c520fd58e597181cBf754961d51E3e"
+    ]
+  },
+  {
+    "symbols": "ENS-WMATIC",
+    "pairs": [
+      "0x1F21f4e5b96142B2c4c70DD565D647Af790aafA9",
+      "0xcDDDd7208489af2c46F40df7C455d1D0389e2A95"
+    ]
+  },
+  {
+    "symbols": "SOL-WMATIC",
+    "pairs": [
+      "0x898386DD8756779a4ba4f1462891B92dd76b78eF",
+      "0xF78cb621cc121032dE7800B81f150F6C4488996F"
+    ]
+  },
+  {
+    "symbols": "SOL-WMATIC",
+    "pairs": [
+      "0x898386DD8756779a4ba4f1462891B92dd76b78eF",
+      "0x2Bee131eB7631560708e68324673A12009d38b69"
+    ]
+  },
+  {
+    "symbols": "SOL-WMATIC",
+    "pairs": [
+      "0xF78cb621cc121032dE7800B81f150F6C4488996F",
+      "0x2Bee131eB7631560708e68324673A12009d38b69"
+    ]
+  },
+  {
+    "symbols": "BGOV-WMATIC",
+    "pairs": [
+      "0xfD2Fa42Fc8a65C9cc833deccbCA755979cd29f16",
+      "0xC698b8a1391F88F497A4EF169cA85b492860b502"
+    ]
+  },
+  {
+    "symbols": "SWAMP-WMATIC",
+    "pairs": [
+      "0x1A477272f6030EAB135Cb3BA40646f3eb26b382a",
+      "0xcE82706cB5A4c61B3b2daa637df1cD11f02A217C"
+    ]
+  },
+  {
+    "symbols": "ELE-WMATIC",
+    "pairs": [
+      "0xADcb09FD3346c72C98753e518397b336333Cf227",
+      "0x5a895D1eac4905384e4AF39dB47B64655B8f6aCA"
+    ]
+  },
+  {
+    "symbols": "UNI-WMATIC",
+    "pairs": [
+      "0xc45092e7e73951c6668f6C46AcFCa9F2B1c69aEf",
+      "0x7FAe0648684ec375176E2d0F171cA9814798D920"
+    ]
+  },
+  {
+    "symbols": "WMATIC-BUSD",
+    "pairs": [
+      "0x1680b6fbeCeAE147FA927EF4191CAa7fF1D5196C",
+      "0xE8fA74E5192c4071a7A34d31Ed34527AaF6C01d4"
+    ]
+  },
+  {
+    "symbols": "WMATIC-BUSD",
+    "pairs": [
+      "0x1680b6fbeCeAE147FA927EF4191CAa7fF1D5196C",
+      "0x30151b8aAeCFD305980411B4efd4167c53A2F773"
+    ]
+  },
+  {
+    "symbols": "WMATIC-BUSD",
+    "pairs": [
+      "0xE8fA74E5192c4071a7A34d31Ed34527AaF6C01d4",
+      "0x30151b8aAeCFD305980411B4efd4167c53A2F773"
+    ]
+  },
+  {
+    "symbols": "WMATIC-USDT",
+    "pairs": [
+      "0x604229c960e5CACF2aaEAc8Be68Ac07BA9dF81c3",
+      "0x55FF76BFFC3Cdd9D5FdbBC2ece4528ECcE45047e"
+    ]
+  },
+  {
+    "symbols": "WMATIC-USDT",
+    "pairs": [
+      "0x604229c960e5CACF2aaEAc8Be68Ac07BA9dF81c3",
+      "0x65D43B64E3B31965Cd5EA367D4c2b94c03084797"
+    ]
+  },
+  {
+    "symbols": "WMATIC-USDT",
+    "pairs": [
+      "0x55FF76BFFC3Cdd9D5FdbBC2ece4528ECcE45047e",
+      "0x65D43B64E3B31965Cd5EA367D4c2b94c03084797"
+    ]
+  },
+  {
+    "symbols": "BEFI-USDT",
+    "pairs": [
+      "0x28A65755De4ca2348E42Aa8F06A594124775b05B",
+      "0xf6D08BE50f6DacdFd35c638B35e692FCDd35aEb5"
+    ]
+  },
+  {
+    "symbols": "BUNNY-USDT",
+    "pairs": [
+      "0x15709f4050bb14B4f51fb7a2616f54d5b6fCF8cF",
+      "0xb64056D8405553e40670EedC1B9d48d46DAB7802"
+    ]
+  },
+  {
+    "symbols": "IRON-USDT",
+    "pairs": [
+      "0xe370902Cf4ab8D1acA0cA4b89367dD7fF76122e2",
+      "0x84899eCbc91B6865BA57bEB7C31c58e0097a8935"
+    ]
+  },
+  {
+    "symbols": "ALPHA-USDT",
+    "pairs": [
+      "0xdE109E8364B0c84251464f6D33Ca5Ccce8Af3346",
+      "0xb0902D002A314691cA3D58312EC3A4De0fB34002"
+    ]
+  },
+  {
+    "symbols": "LINK-USDT",
+    "pairs": [
+      "0xE2FeE46bd868c85A99c79f18D6C3fF441d0E3CD6",
+      "0x43C355d9cE77f91b7E1A314E258246D155100be9"
+    ]
+  },
+  {
+    "symbols": "BTCST-USDT",
+    "pairs": [
+      "0x7847350B4C25f564B5a165389fDCeEA99e1ED3BD",
+      "0xb1dD5322BE07fb2A40ae7fbbBac96781Ca2B0602"
+    ]
+  },
+  {
+    "symbols": "BTCST-USDT",
+    "pairs": [
+      "0x7847350B4C25f564B5a165389fDCeEA99e1ED3BD",
+      "0xcDbcc1Ac4d4e18FB1f2f2D604144Fd33E77cdA52"
+    ]
+  },
+  {
+    "symbols": "BTCST-USDT",
+    "pairs": [
+      "0xb1dD5322BE07fb2A40ae7fbbBac96781Ca2B0602",
+      "0xcDbcc1Ac4d4e18FB1f2f2D604144Fd33E77cdA52"
+    ]
+  },
+  {
+    "symbols": "UNI-USDT",
+    "pairs": [
+      "0xf6c9aeb821A732284c4914b34F1b090b5Cc82DA3",
+      "0x1f7B93a86C393d7ff285332E77fdCa6c0dF2f249"
+    ]
+  }
+]
